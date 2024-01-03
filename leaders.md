@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Gastón Julián Carmona](mailto:gaston.carmona@owasp.org)
+* [Matias Nicolas Gonzalez](mailto:matias.gonzalez@owasp.org)
