@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Bahia Blanca
 tags: example-tag
 region: South America
+country: Argentina
 meetup-group:
 
 ---
